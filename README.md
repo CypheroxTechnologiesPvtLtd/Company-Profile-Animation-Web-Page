@@ -1,4 +1,4 @@
-# [ThreeJS, TweenMax, and Cusom Animation](https://github.com/CypheroxTechnologiesPvtLtd/Company-Profile-Animation-Web-Page/)
+# [ThreeJS, TweenMax, and Custom Animation](https://github.com/CypheroxTechnologiesPvtLtd/Company-Profile-Animation-Web-Page/)
 
 <img src="https://komarev.com/ghpvc/?username=cypheroxtechnologiespvtltd&label=Profile%20views&color=0e75b6&style=flat" alt="cypheroxtechnologiespvtltd" />
 
